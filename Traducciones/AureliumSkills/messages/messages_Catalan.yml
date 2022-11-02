@@ -1,274 +1,273 @@
 # Aurelium Skills Spanish (es) messages
-# Translators: Adrián, Edwin Sanchez, JORC, TnTVlogs
+# Translators: Adrián, Edwin Sanchez, JORC, TnTVlogs, Albert Mataplana :)
 # Contribute here: https://crowdin.com/project/aureliumskills/es#
 abilities:
   farming:
     bountiful_harvest:
-      name: Cosecha Abundante
-      desc: "{value}% de posibilidad para obtener drops dobles \n&7  de los cultivos."
+      name: Collita Abundant
+      desc: "{value}% de possibilitat per obtenir drops dobles n&7 dels cultius."
       info: '{value}% 2x Drops'
     farmer:
       name: Agricultor
-      desc: 'Gana un {value}% más de XP de Agricultura.'
+      desc: 'Gana un {value}% més d'XP d'Agricultura.'
       info: '+{value}% XP'
     scythe_master:
-      name: Maestro de Guadaña
-      desc: 'Incrementa el daño de las azadas en un {value}%'
-      info: '+{value}% Daño de Azada'
+      name: Mestre de Guadaña
+      desc: 'Incrementa el dany de les atzagaiades en un {value}%'
+      info: '+{value}% Dany d' Azada'
     geneticist:
       name: Genetista
-      desc: "Aumenta la ganancia de saturación de\n&7  los alimentos de origen vegetal en {value}."
-      info: '+{value} Saturación'
+      desc: "Augmenta el guany de saturació den&7 els aliments d'origen vegetal en {value}."
+      info: '+{value} Saturació'
     triple_harvest:
       name: Cosecha Triple
-      desc: "{value}% de posibilidad para obtener drops\n&7  triples de los cultivos."
+      desc: "{value}% de possibilitat per obtenir dropsn&7 triples dels cultius."
       info: '{value}% 3x Drops'
   foraging:
     lumberjack:
       name: Leñador
-      desc: "{value}% de posibilidad para obtener\n&7  drops dobles de los troncos."
+      desc: "{value}% de possibilitat per obtenirn&7 drops dobles dels troncs."
       info: '{value}% 2x Drops'
     forager:
-      name: Forrajero
-      desc: 'Gana un {value}% más de XP de Forrajero.'
+      name: Farratger
+      desc: 'Guanya un {value}% més d'XP de Forrajero.'
       info: '+{value}% XP'
     axe_master:
-      name: Maestro del Hacha
+      name: Mestre de la Faixa
       desc: 'Incrementa el daño de las hachas en un {value}%'
       info: '+{value}% Daño de Hacha'
     valor:
       name: Valor
-      desc: "Obtén +{value} de Fuerza mientras \n&7  sostienes un hacha"
+      desc: "Obtén +{value} de Força mentre n&7 sostens una destral"
       info: '+{value} de Fuerza'
     shredder:
       name: Trituradora
-      desc: "{value}% de probabilidad de infligir triple daño\n&7  de durabilidad con hachas."
+      desc: "{value}% de probabilitat d'infligir triple danyn&7 de durabilitat amb fatxes."
       info: '{value}% 3x Daño de Durabilidad'
   mining:
     lucky_miner:
       name: Minero Afortunado
-      desc: "{value}% de posibilidad para obtener\n&7  drops dobles de los minerales."
+      desc: "{value}% de possibilitat per obtenirn&7 drops dobles dels minerals."
       info: '{value}% 2x Drops'
     miner:
       name: Minero
-      desc: 'Gana un {value}% más de XP de Minería.'
+      desc: 'Guanya un {value}% més d'XP de Mineria.'
       info: '+{value}% XP'
     pick_master:
       name: Maestro del Pico
-      desc: 'Inflige un {value}% más de daño con picos.'
-      info: '+{value}% Daño de Pico'
+      desc: 'Infligeix un {value}% més de dany amb pics.'
+      info: '+{value}% Dany de Pico'
     stamina:
       name: Energía
-      desc: "Obtén +{value} de Resistencia mientras\n&7  sostienes un pico"
+      desc: "Obtén +{value} de Resistencia mientrasn&7 sostens un pic"
       info: '+{value} Resistencia'
     hardened_armor:
-      name: Armadura Resistente
-      desc: "{value}% de probabilidad para negar el\n&7  daño de durabilidad en la armadura."
-      info: '{value}% Sin Pérdida de Durabilidad'
+      name: Armadura Resistent
+      desc: "{value}% de probabilitat per negar eln&7 dany de durabilitat a l'armadura."
+      info: '{value}% Sense Pèrdua de Durabilitat'
   fishing:
     lucky_catch:
-      name: Pesca de la Suerte
-      desc: "{value}% de posibilidad para obtener\n&7  drops dobles de la pesca."
+      name: Pesca de la Sort
+      desc: "{value}% de possibilitat per obtenirn&7 drops dobles de la pesca."
       info: '{value}% 2x Drops'
     fisher:
       name: Pescador
-      desc: 'Gana un {value}% más de XP de Pescador'
+      desc: 'Guanya un {value}% més d'XP de Pescador'
       info: '+{value}% XP'
     treasure_hunter:
-      name: Cazador de Tesoros
-      desc: 'Un {value}% más de posibilidades de conseguir un botín raro en la pesca.'
+      name: Cazador de Tresors
+      desc: 'Un {value}% més de possibilitats d'aconseguir un botí rar a la pesca.'
       info: '+{value}% Botín Raro'
     grappler:
       name: Agarrador
-      desc: "Agarra entidades con un {value}% más\n&7  de velocidad."
+      desc: "Agarra entitats amb un {value}% mésn&7 de velocitat."
       info: '+{value}% Velocidad de Agarre'
     epic_catch:
       name: Captura Épica
-      desc: '{value}% de posibilidades añadidas de conseguir botín épico en la pesca.'
+      desc: '{value}% de possibilitats afegides d'aconseguir botí èpic a la pesca.'
       info: '+{value}% de botín épico'
   excavation:
     metal_detector:
-      name: Detector de Metales
-      desc: '{value}% de probabilidad añadida de obtener un botín raro al excavar.'
+      name: Detector de Metalls
+      desc: '{value}% de probabilitat afegida d'obtenir un botí rar en excavar.'
       info: '+{value}% Botín Raro'
     excavator:
       name: Excavador
-      desc: 'Gana un {value}% más de XP de Excavación'
+      desc: 'Guanya un {value}% més d'XP d'Excavació'
       info: '+{value}% XP'
     spade_master:
       name: Maestro de Palas
-      desc: 'Inflige un {value}% más de daño con palas.'
+      desc: 'Infligeix un {value}% més de dany amb pales.'
       info: '+{value}% Daño de Pala'
     bigger_scoop:
       name: Pala Grande
-      desc: "{value}% de probabilidad para obtener drops\n&7  triples al cavar."
+      desc: "{value}% de probabilitat per obtenir dropsn&7 triples al cavar."
       info: '{value}% 3x Drops'
     lucky_spades:
       name: Pala de la Suerte
-      desc: '{value}% de probabilidad añadida de obtener botín épico al excavar.'
+      desc: '{value}% de probabilitat afegida d' obtenir botí èpic en excavar.'
       info: '+{value}% Botín Epico'
   archery:
     crit_chance:
       name: Probabilidad de Crítico
-      desc: '+{value}% de probabilidad de infligir un golpe crítico.'
-      info: '+{value}% de Probabilidad de Crítico'
+      desc: '+{value}% de probabilitat d'infligir un cop crític.'
+      info: '+{value}% de Probabilitat de Crític'
     archer:
       name: Arquero
-      desc: 'Gana un {value}% más de XP de Arquero.'
+      desc: 'Gana un {value}% més d' XP d' Arquer.'
       info: '+{value}% XP'
     bow_master:
-      name: Maestro del Arco
-      desc: 'Inflige un {value}% más de daño con arcos.'
+      name: Maestro de l' Arc
+      desc: 'Inflige un {value}% més de dany amb arcs.'
       info: '+{value}% Daño de Arco'
     piercing:
       name: Perforación
-      desc: "{value}% de probabilidad para que las\n&7 flechas perforen a los mobs."
-      info: '{value}% Probabilidad de Perforación'
+      desc: "{value}% de probabilitat perquè lesn&7 fletxes perforin els mobs."
+      info: '{value}% Probabilidad de Perforació'
     stun:
       name: Aturdir
-      desc: "{value}% de probabilidad para reducir la velocidad del\n&7 enemigo en un 20% por 2 segundos."
-      info: '{value}% Probabilidad de Aturdimiento'
+      desc: "{value}% de probabilitat per reduir la velocitat deln&7 enemic en un 20% per 2 segons."
+      info: '{value}% Probabilitat d' Aturdiment'
   defense:
     shielding:
-      name: Blindaje
-      desc: "Reduce el daño entrante en un {value}%\n&7  mientras estás agachado."
-      info: '-{value}% Daño Entrante agachándote'
+      name: Blindatge
+      desc: "Redueix el dany entrant en un {value}%n&7 mentre estàs aixafat."
+      info: '-{value}% Dany Entrant agafant-te'
     defender:
       name: Defensor
-      desc: 'Gana un {value}% más de XP de Defensa'
+      desc: 'Gana un {value}% més d'XP de Defensa'
       info: '+{value}% XP'
     mob_master:
-      name: Maestro de Criaturas
-      desc: 'Reduce el daño entrante de los mobs en un {value}%'
-      info: '-{value}% Daño de Mobs'
+      name: Mestre de Criatures
+      desc: 'Redueix el dany entrant dels mobs en un {value}%'
+      info: '-{value}% Dany de Mobs'
     immunity:
       name: Inmunidad
-      desc: "{value}% de probabilidad de rechazar\n&7  completamente un ataque enemigo."
-      info: '{value}% de Inmunidad'
+      desc: "{value}% de probabilitat de rebutjarn&7 completament un atac enemic."
+      info: '{value}% de Inmunitat'
     no_debuff:
-      name: Sin Desventajas
-      desc: "{value}% de probabilidad para negar el efecto\n&7  de una poción que te perjudique."
-      info: '{value}% Sin Desventajas'
+      name: Sense Desavantatges
+      desc: "{value}% de probabilitat per negar l'efecten&7 d'una poció que et perjudiqui."
+      info: '{value}% Sense Desavantatges'
   fighting:
     crit_damage:
-      name: Daño Crítico
-      desc: 'Incrementa el daño por golpe crítico en un {value}%'
+      name: Dany Crític
+      desc: 'Incrementa el dany per cop crític en un {value}%'
       info: '+{value}% Daño Crítico'
     fighter:
       name: Luchador
-      desc: 'Gana un {value}% más de XP de Luchador'
+      desc: 'Guanya un {value}% més d'XP de Lluitador'
       info: '+{value}% XP'
     sword_master:
-      name: Maestro de Espada
-      desc: 'Inflige un {value}% más de daño con espadas.'
-      info: '+{value}% Daño de Espada'
+      name: Mestre d' Espada
+      desc: 'Infligeix un {value}% més de dany amb espases.'
+      info: '+{value}% Dany d' Espada'
     first_strike:
       name: Primer Golpe
-      desc: 'Inflige un {value}% más de daño en el primer golpe.'
-      info: '+{value}% Daño de Primer Golpe'
+      desc: 'Infligeix un {value}% més de dany en el primer cop.'
+      info: '+{value}% Dany de Primer Cop'
       dealt: '&c¡Primer Golpe!'
     bleed:
       name: Sangrar
-      desc: "{value}% de probabilidad de hacer sangrar al enemigo\n&7  durante 3 ticks, infligiendo {value_2} puntos de daño por tick."
-      info: '{value}% de Probabilidad, {value_2} de Daño'
-      enemy_bleeding: '&c¡Enemigo Sangrando!'
-      self_bleeding: '&c¡Estás Sangrando!'
-      stop: '&cEl sangrado se ha detenido'
+      desc: "{value}% de probabilitat de fer sagnar l'enemicn&7 durant 3 ticks, infligint {value_2} punts de dany per tick."
+      info: '{value}% de Probabilidad, {value_2} de Dany'
+      enemy_bleeding: '&c¡Enemic Sagnant!'
+      self_bleeding: '&c¡Estàs Sangrando!'
+      stop: '&cEl sagnat s'ha aturat'
   endurance:
     anti_hunger:
-      name: Sin Hambre
-      desc: '{value}% de probabilidad para detener la pérdida de hambre.'
-      info: '{value}% Sin Pérdida de Hambre'
+      name: Sense Fam
+      desc: '{value}% de probabilitat per aturar la pèrdua de fam.'
+      info: '{value}% Sense Pèrdua de Fam'
     runner:
       name: Corredor
-      desc: 'Gana un {value}% más de XP de Resistencia.'
+      desc: 'Guanya un {value}% més d'XP de Resistència.'
       info: '+{value}% XP'
     golden_heal:
       name: Curación Dorada
-      desc: "Aumenta la ganancia de salud del efecto\n&7  de regeneración en un {value}%"
-      info: '+{value}% Efecto de Regeneración'
+      desc: "Augmenta el guany de salut de l'efecten&7 de regeneració en un {value}%"
+      info: '+{value}% Efecte de Regeneració'
     recovery:
       name: Recuperación
-      desc: "Aumenta la regeneración natural cuando\n&7  tiene menos de la mitad de salud en un {value}%"
-      info: '+{value}% Regeneración de Salud Baja'
+      desc:"Augmenta la regeneració natural quann&7 té menys de la meitat de salut en un {value}%"
+      info: '+{value}% Regeneració de Salud Baixa'
     meal_steal:
-      name: Robo de Comida
-      desc: "{value}% de probabilidad de robar 1 punto\n&7  de hambre al atacar a un jugador."
+      name: Robo de menjar
+      desc: "{value}% de probabilitat de robar 1 puntn&7 de fam en atacar un jugador."
       info: '{value}% Robo de Comida'
   agility:
     light_fall:
       name: Caída Ligera
-      desc: 'Reduce el daño de caída en un {value}%'
+      desc: 'Redueix el dany de caiguda en un {value}%'
       info: '-{value}% Daño de Caída'
     jumper:
       name: Saltador
-      desc: 'Gana un {value}% más de XP de Agilidad'
+      desc: 'Guanya un {value}% més d'XP d'Agilitat'
       info: '+{value}% XP'
     sugar_rush:
-      name: Subida de Azúcar
-      desc: "Las pociones de velocidad y salto alto consumidas\n&7  y salpicadas duran un {value}% más."
+      name: Pujada de Sucre
+      desc: "Les pocions de velocitat i salt alt consumidesn&7 i esquitxades duren un {value}% més."
       info: '{value}% Velocidad Duradera'
     fleeting:
       name: Fugaz
-      desc: "Gana +{value}% de velocidad de movimiento cuando \n&7  estás por debajo del 20% de salud"
+      desc: "Guanya +{value}% de velocitat de moviment quan n&7 estàs per sota del 20% de salut"
       info: '+{value}% de Velocidad'
-      start: '&fHas ganado una mejora de velocidad! &7(+{value}% Velocidad)'
-      end: '&7La mejora de velocidad ha finalizado'
+      start: '&fHas guanyat una millora de velocitat! &7(+{value}% Velocitat)'
+      end: '&7La millora de velocitat ha finalitzat'
     thunder_fall:
       name: Caída de Trueno
-      desc: "Si te agachas mientras caes, tienes un {value}% de probabilidad\n&7  de infligir el {value_2}% del daño de caída a los mobs que\n&7  estén en un radio de 3 bloques"
+      desc: "Si t'agafes mentre caus, tens un {value}% de probabilitatn&7 d'infligir el {value_2}% del dany de caiguda als mobs quen&7 estiguin en un radi de 3 blocs"
       info: '{value}% de Probabilidad, {value_2}% de Daño'
   alchemy:
     alchemist:
       name: Alquimista
-      desc: "Las pociones que preparas tienen un {value}%\n&7  más de duración."
+      desc: "Les pocions que prepares tenen un {value}%n&7 més de durada."
       info: '+{value}% Duración de Poción'
       lore: '&a(+{duration})'
     brewer:
-      name: Cervecero
-      desc: 'Gana un {value}% más de XP de Alquimia'
+      name: Cerveser
+      desc: 'Guanya un {value}% més d'XP d'Alquímia'
       info: '+{value}% XP'
     splasher:
       name: Salpicador
-      desc: "Las pociones que salpiques tienen un {value}%\n&7  más de duración por cada jugador afectado."
+      desc: "Les pocions que esquitxs tenen un {value}%n&7 més de durada per cada jugador afectat."
       info: '+{value}% Duración/Jugador'
     lingering:
-      name: Persistente
-      desc: "Las pociones persistentes decaen naturalmente un {value}%\n&7  más lento y decaen un {value_2}% menos por entidad afectada."
+      name: Persistent
+      desc: "Les pocions persistents decauen naturalment un {value}%n&7 més lent i decauen un {value_2}% menys per entitat afectada."
       info: '-{value}% Natural, *{value_2}% Decaimiento de Entidad'
     wise_effect:
-      name: Efecto Sabio
-      desc: "Gana un {value}% de sabiduría por cada efecto único\n&7  de pociones que tengas activas."
+      name: Efecte Savi
+      desc: "Guanya un {value}% de saviesa per cada efecte únicn&7 de pocions que tinguis actives."
       info: '+{value} Sabiduría/Efecto'
   enchanting:
     xp_convert:
       name: Convertir XP
-      desc: "Gana 1 experiencia de Minecraft por cada {value}\n&7 de experiencia de habilidad que ganes."
+      desc: "Gana 1 experiencia de Minecraft per cada {value}\n&7 de experiencia de habilidad que guanyis."
       info: '1 EXP/{value} EXP de Habilidad'
     enchanter:
       name: Encantador
-      desc: 'Gana un {value}% más de XP de Encantador.'
+      desc: 'Gana un {value}% més de XP de Encantador.'
       info: '+{value}% XP'
     xp_warrior:
       name: XP de Guerrero
-      desc: "Los monstruos que elimines tienen un {value}% de probabilidades\n&7  de dar doble experiencia."
+      desc: "Els monstres que elimines tenen un {value}% de probabilitatsn&7 de donar doble experiència."
       info: '{value}% 2x EXP de Monstruos'
     enchanted_strength:
       name: Fuerza Encantada
-      desc: "Gana {value} de Fuerza por cada\n&7  encantamiento único en el objeto que sostienes."
+      desc: "Guanya {value} de Fuerza por cadan&7 encantamiento único en el objeto que sostienes."
       info: '{value} Fuerza/Encantamiento'
     lucky_table:
-      name: Mesa de la suerte
-      desc: "Los objetos que encantes tienen en la mesa de\n&7  encantamientos tienen un {value}% de probabilidad de mejorar \n&7  el encantamiento en 1 si no es el nivel máximo"
-      info: '{value}% Posibilidad de Mejora de Encantador'
-  healing:
+      name: Taula de la sort
+      desc: "Els objectes que encants tenen a la taula den&7 encantaments tenen un {value}% de probabilitat de millorar n&7 l'encantament en 1 si no és el nivell màxim"
+      info: '{value}% ' Possibilitat de Millora d'Encantador'
     life_essence:
-      name: Esencia de vida
-      desc: Las pociones de Vida Instantánea curan un {value}% más.
+      name: Essència de vida
+      desc: Les pocions de Vida Instantània curen un {value}% més.
       info: '+{value}% Salud Instantánea'
     healer:
       name: Curandero
-      desc: Gana un {value}% más de XP de Curación.
+      desc: Guanya un {value}% més d'XP de Curació.
       info: '+{value}% XP'
     life_steal:
       name: Robo de vida
